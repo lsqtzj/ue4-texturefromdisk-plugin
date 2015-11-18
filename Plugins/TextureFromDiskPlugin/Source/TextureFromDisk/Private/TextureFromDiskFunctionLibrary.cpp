@@ -4,7 +4,7 @@
 //////////////////////////////////////////////////////////////////////////
 // UOggBPFunctionLibrary
 
-UTextureFromDiskFunctionLibrary::UTextureFromDiskFunctionLibrary(const class FPostConstructInitializeProperties& PCIP)
+UTextureFromDiskFunctionLibrary::UTextureFromDiskFunctionLibrary(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
 	 
